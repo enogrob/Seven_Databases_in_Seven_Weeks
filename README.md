@@ -40,6 +40,10 @@ Preface
 5. MongoDB
 [x] 5.1 Hu(mongo)us
 [ ] 5.2 Day 1: CRUD and Nesting
+    [x] Command-Line Fun
+    [x] Javascript
+    [x] Reading:More Fun in Mongo
+    [ ] Digging Deep
 [ ] 5.3 Day 2: Indexing, Grouping, Mapreduce
 [ ] 5.4 Day 3: Replica Sets, Sharding, GeoSpatial, and GridFS
 [ ] 5.5 Wrap-Up 
